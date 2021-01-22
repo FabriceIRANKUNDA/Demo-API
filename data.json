@@ -1,0 +1,73 @@
+[
+  {
+    "patientID": "KNM0001",
+    "firstName": "IRANKUNDA",
+    "lastName": "Fabrice",
+    "tel": "0787967482",
+    "balance": 0,
+    "insuranceDue": 0,
+    "hospitalName": "Kanombe",
+    "debt": 2000
+  },
+  {
+    "patientID": "KNM0002",
+    "firstName": "IYAMUREMYE",
+    "lastName": "Benjamin",
+    "tel": "0787082328",
+    "balance": 6000,
+    "insuranceDue": 10,
+    "hospitalName": "Masaka",
+    "debt": 0,
+    "status": "debt cleared"
+  },
+  {
+    "patientID": "KNM0002",
+    "firstName": "MUGIRANEZA",
+    "lastName": "John",
+    "tel": "0787967482",
+    "balance": 10000,
+    "insuranceDue": 20,
+    "hospitalName": "Kanombe",
+    "debt": 12000
+  },
+  {
+    "patientID": "KNM0004",
+    "firstName": "KARANGWA",
+    "lastName": "Victor",
+    "tel": "0787967482",
+    "balance": 5000,
+    "insuranceDue": 0,
+    "hospitalName": "Kacyiru",
+    "debt": 4000
+  },
+  {
+    "patientID": "KNM0005",
+    "firstName": "IRANKUNDA",
+    "lastName": "Fabrice",
+    "tel": "0787967482",
+    "balance": 0,
+    "insuranceDue": 0,
+    "hospitalName": "Kanombe",
+    "debt": 2000
+  },
+  {
+    "patientID": "KNM0006",
+    "firstName": "IRANKUNDA",
+    "lastName": "Fabrice",
+    "tel": "0787967482",
+    "balance": 0,
+    "insuranceDue": 0,
+    "hospitalName": "Kanombe",
+    "debt": 2000
+  },
+  {
+    "patientID": "KNM0007",
+    "firstName": "IRANKUNDA",
+    "lastName": "Fabrice",
+    "tel": "0787967482",
+    "balance": 0,
+    "insuranceDue": 0,
+    "hospitalName": "Kanombe",
+    "debt": 2000
+  }
+]
